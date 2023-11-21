@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019534799027",
+    "project_id": "lingualy-cf5f0",
+    "storage_bucket": "lingualy-cf5f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019534799027:android:cecc2bee508bedecbe00c6",
+        "android_client_info": {
+          "package_name": "com.example.lingualy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkE_R3kNe5gxLMUmOoDij2sec7KjKhSHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
